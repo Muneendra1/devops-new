@@ -1,8 +1,13 @@
 git
 azur dashboard
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 jenkins
 mavens
+=======
+docker
+kubernets
+>>>>>>> Stashed changes
 =======
 docker
 kubernets
